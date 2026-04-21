@@ -2,4 +2,4 @@ git init //for initializing repository
 git init //for initializing repository test
 git add <file>
 git commit -m"your commit message"
-git reset - hart soft Head~1
+git reset --soft Head~1
